@@ -1,0 +1,29 @@
+name: memorama_game
+description: A Flutter game like memorama.
+
+environment:
+  sdk: '>=3.5.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  path_provider: ^2.0.0
+  sqflite: ^2.0.0
+  audioplayers: ^0.20.0
+
+flutter:
+  assets:
+    - assets/images/card_0.png
+    - assets/images/card_1.png
+    - assets/images/card_2.png
+    - assets/images/card_3.png
+    - assets/images/card_4.png
+    - assets/images/card_5.png
+    - assets/images/card_6.png
+    - assets/images/card_7.png
+    - assets/images/card_8.png
+    - assets/images/card_9.png
+    - assets/images/card_10.png
+    - assets/images/card_11.png
+    - assets/images/card_back.png
+
